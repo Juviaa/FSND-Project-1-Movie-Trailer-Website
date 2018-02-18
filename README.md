@@ -8,7 +8,8 @@ Franklin Gray (GitHub: asmallbeast)
 A website that plays the trailers for my six favorite movies.
 
 ### How to use
-Run the file entertainment_center.py, which will generate an html file and open that file in your default web browser.
+Run the file entertainment_center.py from your Terminal using the command:
+$ python Your/File/Path/entertainment_center.py
 
 ### Credits
 Each trailer is copyright to the film's production company.
